@@ -1,0 +1,53 @@
+body {
+    background: url(akatsuki-fondo-2.png) no-repeat center top;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+    background: rgb(49, 49, 49);
+    width: 1000px;
+    /*height: 1000px;*/
+    position: absolute; 
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 190px;
+    margin-bottom: 10px;
+}
+
+#title-pagina {
+    font-size: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.contenido {
+    margin-top: 30px;
+}
+
+.espaciado-arriba {
+    margin-top: 30px;
+}
+
+#parrafo {
+    text-align: left;
+    margin-left: 20px;
+}
+
+img:hover {
+    width: 300px;
+}

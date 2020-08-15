@@ -1,0 +1,1 @@
+alert("Aviso, esta página puede estar demasiado bien hecha y puede ser dañino para los ojos. Gracias por su comprensión.")
